@@ -1,0 +1,138 @@
+/* ::::: https://s.yimg.com/zz/combo?kx/yucs/uh3/uh/css/986/uh_non_mail-min.css&kx/yucs/uh_common/meta/3/css/meta-min.css&kx/yucs/uh3/uh/css/943/uh_ssl-min.css ::::: */
+#yucs { position: static; left: 0px; top: 0px; z-index: 10000; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; height: 53px; clear: both; padding: 4px 0px; width: 970px; }
+#yucsHead a, #yucsHead span, #yucsHead button, #yucsHead a div {  }
+.yucs-mc { background-color: white; }
+#yucs-logo, #yucs-ylogo { width: 206px; height: 31px; margin-top: 11px; }
+#yucs #yucs-logo, #yucs #yucs-ylogo { margin-left: 15px; float: left; }
+#yucs-logo div, #yucs-logo h2, #yucs-ylogo h2 { position: relative; text-indent: -9999em; background-repeat: no-repeat; margin: 0px; }
+#yucs .sp { background-color: transparent; background-image: url('uh_sprite.png'); background-repeat: no-repeat; }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+	#yucs .sp { background-image: url('uh_sprite_x2.png'); background-size: 24px 4844px; }
+}
+.yucs-fl-right { float: right; margin-top: 4px; margin-left: -100px; }
+.yucs-fl-left { float: left; margin-right: -500px; width: 900px; }
+.yucs-menu_nav, #yucs-nav_outer, #yucs-ylogo, #yucs-search, #yucs-profile, .yucs-mail_link, #yucs-search_button_wrapper, #yucs-satray { float: left; z-index: 10000; margin-left: 20px; }
+.yucs-notifications, #yucs-help { margin-top: 10px; }
+#yucs-nav_outer, #yucs-search_button_wrapper, .yucs-mail_link, #yucs-satray, #yucs-signUp_txt, #yucs-profile_text { margin-left: 0px; }
+#yucs-profile {  }
+#yucs-profile { text-align: left; position: relative; margin-top: 10px; }
+#yucs .yucs-signedout { margin-top: 11px; white-space: nowrap; }
+#yucs div, #yucs ul, #yucs li, #yucs span {  }
+a#yucs-menu_link_profile_signed_out, a#yucs-menu_link_profile { display: inline-block; height: auto; width: auto; overflow: visible; }
+a#yucs-menu_link_profile_signed_out { width: 22px; height: 25px; }
+a#yucs-menu_link_profile_signed_out { background-position: -1px -4547px; margin-right: 2px; }
+#yucs-profile #yucs-profile_text { display: inline-block; }
+.yucs-signedout #yucs-profile_text { line-height: 1.231; margin-top: 0px; vertical-align: top; padding-top: 2px; }
+.yucs-signedout #yucs-profile_text, .yucs-signedout #yucs-profile_text a {  }
+#yucs-profile_text { margin-top: 6px; display: inline-block; max-width: 65px; }
+#yucs-menu_link_profile, #yucs-profile_text {  }
+#yucs-profile { max-width: 95px; }
+@media not all {
+}
+#yucs-profile_text {  }
+#yucs-profile div.yucs-fc { margin-top: 0px; }
+#yucs .yucs-fc { color: rgb(29, 29, 163); text-shadow: 1px 1px 1px rgb(255, 255, 255); }
+#yucs-profile_text a { text-decoration: none; }
+a.yucs-signout:hover, a#yucs-login_signIn:hover, #yucs-login_signUp:hover, #yucs-profile_text a:hover, #yucs-menu_link_profile:hover .yuhead-name, #yucs-mail_link_id:hover { text-decoration: underline; }
+#yucs-profile_text a:hover { cursor: pointer; }
+#yucs-login_signUp, .yucs-no_menu a.yucs-signout, a#yucs-login_signIn, #yucs-signUp_txt { font-size: 9px; text-shadow: 1px 1px 1px rgb(255, 255, 255); }
+#yucs-profile_text #yucs-login_signIn { font-size: 13px; }
+#yucs-profile #yucs-profile_text {  }
+#yucsHead { background-color: white; }
+#yucs-meta { display: none; }
+#yucs-top-bar .sp, #yucs .sp, a#yucs-menu_link_menu, #yucs-search_type_wrapper, a#yucs-menu_link_profile_signed_out, a#yucs-menu_link-notif, a#yucs-help_button, #yucs-nav_outer, .yucs-bullets, #yucs-nav .yucs-nav_site a, a#yucs-home_link, .yucs-dock, #yucs-more-link .yucs-top-ico, .yucs-preview-body a.unread { background-image: url('uh_sprite.png'); }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+	#yucs-top-bar .sp, #yucs .sp, #yucs-menu_link_menu, #yucs-search_type_wrapper, a#yucs-menu_link_profile_signed_out, a#yucs-menu_link-notif, a#yucs-help_button, #yucs-nav_outer, .yucs-bullets, #yucs-nav .yucs-nav_site a, a#yucs-home_link, .yucs-dock, #yucs-more-link .yucs-top-ico, .yucs-preview-body a.unread { background-image: url('uh_sprite_x2.png'); background-size: 24px 4844px; }
+}
+/* ::::: https://s.yimg.com/sf/sreg/r45/1/css/desktop/reg/ltr.css ::::: */
+
+html { color: rgb(0, 0, 0); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: 0px none; }
+address, caption, cite, code, dfn, em, strong, th, var { font-style: normal; font-weight: normal; }
+ol, ul { list-style: none outside none; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
+input, textarea, select { font-family: inherit; font-size: inherit; font-weight: inherit; }
+input, textarea, select {  }
+legend { color: rgb(0, 0, 0); }
+.js.modern .clipped { clip: rect(0px, 0px, 0px, 0px); position: absolute; }
+.clear { clear: both; }
+h1 { font-size: 2em; font-weight: 200; }
+.validation-message, .password-strength { margin: 0.41667em 0.08333em 0px; font-size: 0.8em; }
+.tos, .messages { font-size: 0.8em; }
+.validation-message { color: rgb(204, 74, 74); }
+#password-length, #password-contain-mixed-case, #password-contain-numbers-special { color: rgb(165, 165, 165); }
+a { color: rgb(50, 79, 225); text-decoration: none; }
+.button { margin: 0px; font-family: inherit; font-size: 1.2em; font-weight: 200; border-radius: 4px; padding: 0.55556em 1.11111em; cursor: pointer; display: inline-block; text-align: center; }
+.button:focus { outline: medium none; }
+.submit { color: white; background: none repeat scroll 0% 0% rgb(64, 0, 144); border: 1px solid rgb(56, 15, 89); }
+.icon-small { display: inline-block; background: url('sprites-new.png') no-repeat scroll 0% 0% / 20px 61px transparent; width: 21px; height: 10px; padding-left: 8px; padding-right: 3px; }
+.tick-fail { background-position: 8px 0px ! important; }
+.icon-medium { display: inline-block; background: url('sprites.png') no-repeat scroll 0% 0% / 15px 60px transparent; width: 15px; height: 15px; }
+.unchecked { background-position: 0px -30px; }
+.icon-wrapper { display: inline-block; width: 44px; height: 42px; position: absolute; bottom: 1px; right: 1px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; padding: 11px 12px; cursor: pointer; }
+.icon-wrapper:focus { outline: medium none; background: none repeat scroll 0% 0% rgb(246, 251, 255) ! important; }
+.icon { display: inline-block; background: url('sprites-new.png') no-repeat scroll 0% 0% / 20px 61px transparent; width: 20px; height: 20px; }
+.icon-i { background-position: 0px -41px; }
+.icon-wrapper:focus + .tooltip { display: block; }
+.modern .tooltip { position: absolute; z-index: 10000; color: rgb(255, 255, 255); text-shadow: none; background: none repeat scroll 0% 0% rgb(70, 75, 86); width: 15.3333em; padding: 0.66667em; border-radius: 4px; right: -5px; bottom: 44px; display: none; word-wrap: break-word; }
+.lt-ie8 .icon-wrapper, .tooltip { display: none; }
+.tooltip-arrow { position: absolute; content: ""; border-right: 10px solid transparent; border-width: 10px; border-style: solid; border-color: rgb(70, 75, 86) transparent transparent; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; bottom: -20px; right: 18px; }
+.row { position: relative; }
+.input-row { margin-top: 0.4em; }
+.mobile-row { margin-top: 2em; }
+.tos-row, .row-30px { margin-top: 2em; }
+.gender-row { margin-top: 1.06667em; }
+.password-strength { display: none; }
+.column { position: relative; display: inline-block; vertical-align: middle; height: 100%; }
+.first-name { width: 49%; }
+.last-name { width: 50%; }
+.last-name-margin { margin-left: 1%; }
+.mobile-rec { width: 70%; }
+.relationship { width: 29%; }
+.relationship-margin { margin-left: 1%; }
+.modern * { -moz-box-sizing: border-box; }
+html { height: 100%; }
+body { direction: ltr; font: 300 15px "helvetica neue",helvetica,verdana,tahoma,arial,sans-serif; color: rgb(52, 61, 71); height: 100%; min-height: 100%; min-width: 36.6em; }
+.container { background: none repeat scroll 0% 0% rgb(250, 250, 250); min-height: 100%; }
+.main { min-height: 100%; margin: 0px auto; width: 25em; }
+.input-container { margin-top: 2em; }
+.suggestions { background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(87, 113, 255) ! important; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px; width: 100%; z-index: 100; top: -4px; display: none; }
+.modern .suggestions { position: absolute; }
+.modern input[type="text"], .modern input[type="password"], .modern select, .placeholder { font-size: 1.2em; color: rgb(0, 0, 0); padding: 0.55556em; border: 1px solid rgb(236, 236, 236); border-radius: 4px; width: 80%; }
+.modern input[type="text"]:focus, .modern input[type="password"]:focus, .modern select:focus, .placeholder:focus { outline: medium none; border: 1px solid rgb(87, 113, 255) ! important; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.modern select { margin: 0px; height: 2.44444em; vertical-align: bottom; cursor: pointer; }
+*::-moz-placeholder { color: rgb(165, 165, 165); text-transform: none; opacity: 1; }
+.show-password { color: rgb(199, 199, 199); font-size: 1.2em; position: absolute; bottom: 1px; background: none repeat scroll 0% 0% rgb(255, 255, 255); right: 0.6em; line-height: 2.33333em; height: 2.33333em; display: none; }
+.domain-column { position: absolute; top: 1px; right: 1px; }
+.modern span.domain { display: inline-block; vertical-align: middle; font-size: 1.2em; padding: 0.55556em; color: rgb(199, 199, 199); text-align: right; height: 100%; }
+input[type="radio"]:focus + label { background-color: rgb(229, 240, 249); }
+.modern input[type="radio"] + label { position: relative; display: inline-block; }
+.modern input[type="radio"] + label { font-size: 1.2em; padding: 0px 0.55556em; color: rgb(165, 165, 165); }
+input[type="radio"]:checked + label { color: black; }
+input[type="radio"] { opacity: 0; margin-left: 2px; }
+input[type="radio"] + label:before { position: absolute; content: ""; border-radius: 8px; border: 8px solid rgb(165, 165, 165); top: 2px; left: -14px; }
+input[type="radio"] + label:after { position: absolute; content: ""; border-radius: 7px; border: 7px solid rgb(255, 255, 255); top: 3px; left: -13px; }
+input[type="radio"]:checked + label:after { width: 10px; height: 10px; border: 2px solid rgb(255, 255, 255); }
+.country-lang-column { float: right; }
+.modern .birthday-wrapper { border: 1px solid rgb(236, 236, 236); border-radius: 4px; display: inline-block; vertical-align: middle; }
+.birthday-wrapper { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.modern .birthday-label { font-size: 1.2em; color: rgb(169, 169, 169); padding: 0.55556em; background: none repeat scroll 0% 0% rgb(240, 240, 240); border-top-left-radius: 4px; border-bottom-left-radius: 4px; }
+.modern .birthday-fields-wrapper { height: 2.8em; }
+.header { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.uhd { width: 36.6em; margin: 0px auto; }
+#yucs-logo { margin-left: 0px ! important; }
+#yucs { margin: 0px auto; width: 100% ! important; }
+#yucs-profile_text { max-width: 65px; }
+.yucs-hide { display: none ! important; }
+#yucs #yucs-help_link { font-size: 13px; color: rgb(29, 29, 163); text-shadow: 1px 1px 1px rgb(255, 255, 255); text-indent: 0px; text-decoration: none; }
+#yucs #yucs-help { margin-top: 13px; margin-right: 10px; }
+#yucs #yucs-help_link:hover { text-decoration: underline; }
+#yucs-profile_text {  }
+#yucs #yucs-logo-ani { width: 120px; height: 34px; background-image: url('yahoo_en-us_f_pw_125x32.png'); display: block; visibility: hidden; clip: rect(22px, 154px, 42px, 0px); position: absolute; }
+#yucs-logo { margin-top: 0px ! important; padding-top: 11px; width: 120px; }
+#yucs #yucs-logo a { margin-left: 0px ! important; }
+#yucs #yucs-link-ani { width: 100% ! important; }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+	#yucs #yucs-logo-ani { background-image: url('yahoo_en-us_f_pw_125x32_2x.png') ! important; background-size: 240px 34px; }
+}

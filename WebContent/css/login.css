@@ -1,0 +1,152 @@
+/* ::::: https://s.yimg.com/lq/i/reg/css/yregbase_sec_ui_1_9.css ::::: */
+
+body { font: 13px arial,helvetica,clean,sans-serif; }
+select, input, textarea { font: 99% arial,helvetica,clean,sans-serif; }
+body * { line-height: 1.22em; }
+p, form, fieldset, h1, h2, h3, h4, h5, h6 { margin: 0px; padding: 0px; }
+fieldset { padding: 10px 0px; }
+img, fieldset { border: 0px none; }
+legend { display: none; }
+a { color: rgb(5, 55, 153); text-decoration: none; }
+a:hover { text-decoration: underline; }
+body { text-align: center; color: rgb(51, 51, 51); margin: 5px 0px 0px; padding: 0px; }
+#yreglg { float: right; width: 240px; margin: 0px 0px 20px; }
+#yreglg select, #yreglg input, #yreglg p, #yreglgtb td, #yreglgtb th { font-size: 92%; }
+#inputs { padding-top: 10px; padding-bottom: 18px; }
+#inputs input { width: 208px; line-height: 1.5; }
+#persistency { font-size: 12px; color: rgb(0, 0, 0); padding-bottom: 18px; }
+#persistency #persistent { margin-left: 0px; float: left; }
+#submit { padding-bottom: 20px; font-family: arial; }
+#submit button { font-size: 13px; }
+#yreglg { width: 240px; }
+#fsLogin { padding-top: 0px; }
+.clear { clear: both; }
+#yreglg select, #yreglg input, #yreglg p, #yreglgtb td, #yreglgtb th { font-size: 93%; }
+input#persistent { margin-bottom: 0em; }
+p, form, fieldset, h1, h2, h3, h4, h5, h6 { margin: 0px; padding: 0px; }
+fieldset { padding: 10px 0px; }
+img, fieldset { border: 0px none; }
+legend { display: none; }
+a { color: rgb(5, 55, 153); text-decoration: none; }
+a:hover { text-decoration: underline; }
+body { text-align: center; color: rgb(51, 51, 51); margin: 5px 0px 0px; padding: 0px; }
+#yreglg { float: right; width: 240px; margin: 0px 0px 20px; }
+#yreglg select, #yreglg input, #yreglg p, #yreglgtb td, #yreglgtb th { font-size: 91%; }
+@media all and (min-width: 0px) {
+}
+.top { position: relative; }
+/* ::::: https://s.yimg.com/lq/lib/reg/css/container-min-1.css ::::: */
+
+#captcha, #captcha_c, #captchaDiv { z-index: 6; top: -60px; }
+.top { position: relative; }
+input#persistent { margin-bottom: 0em; }
+.top { position: relative; }
+html, body { text-align: center; width: 100%; }
+#mainBox { position: relative; top: 11px; width: 100%; height: 400px; min-height: 400px; margin: 0px auto; background-color: transparent; text-align: left; }
+#iframeHolder { height: 600px; width: 1920px; margin: 0px auto 0px -960px; position: absolute; top: 61px; left: 50%; overflow: visible; direction: ltr; z-index: 0; }
+#loginHolder { height: 100%; min-width: 262px; max-width: 840px; margin: 0px auto; position: relative; }
+#hdBg { min-height: 61px; height: auto ! important; max-width: 1440px; width: auto ! important; margin: 0px auto; }
+#hdBg #yUnivHead { width: 758px; }
+#footer { background-color: rgb(255, 255, 255); bottom: 0px; height: 35px; left: 0px; width: 100%; position: fixed; z-index: 3; }
+#footer #mem_ft { margin-top: 0px; }
+#leftContent { position: absolute; left: 0px; }
+#loginBox { height: 400px; }
+#static { width: 525px; }
+#yreglg { width: 262px ! important; }
+.mm-lgbx { border: 2px solid rgba(153, 153, 153, 0.75); border-radius: 2px; z-index: 3; font-size: 13px ! important; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; background-color: rgb(255, 255, 255); }
+.mm-lgbx .lgbx { padding: 20px; }
+.mm-lgbx .lg-sprite { background: url('yahoo-login-sprite-1.4.png') no-repeat scroll 0% 0% transparent; }
+.mm-lgbx .lgbx-logo { width: 138px; height: 30px; text-align: center; margin: 10px 0px 27px 40px; background-position: 0px -4px; position: relative; }
+.mm-lgbx #fsLogin { position: relative; }
+.mm-lgbx #inputs { padding: 0px; }
+.mm-lgbx #inputs input { border: 1px solid rgb(186, 186, 186); margin-bottom: 15px; font-size: 107% ! important; padding: 5px; height: 23px; width: 208px; border-radius: 3px; }
+.mm-lgbx #inputs input:focus { border: 1px solid rgb(120, 59, 168); }
+.mm-lgbx .lgbx-btn { border: 0px none; color: rgb(255, 255, 255); height: 35px; width: 100%; font-weight: bold; cursor: pointer; text-align: center; }
+.mm-lgbx .purple-bg { border-radius: 2px; background-color: rgb(110, 50, 157); background-image: -moz-linear-gradient(left center , rgb(110, 50, 157) 0%, rgb(110, 50, 157) 100%); border: 1px solid rgb(82, 38, 117); }
+.mm-lgbx #persistency { font-size: 107% ! important; color: rgb(34, 34, 34); padding-bottom: 18px; }
+.mm-lgbx .idp-string { text-align: center; padding-top: 15px; border-top: 1px solid rgb(223, 223, 223); }
+.mm-lgbx .lgbx-signup { border-top: 1px solid rgb(223, 223, 223); margin-top: 10px; padding-top: 20px; position: relative; }
+.mm-lgbx .blue-bg { background-color: rgb(11, 112, 190); background-image: -moz-linear-gradient(left center , rgb(11, 112, 190) 0%, rgb(11, 112, 190) 100%); display: block; height: 24px; padding-top: 10px; text-decoration: none; border-radius: 2px; border: 1px solid rgb(11, 95, 162); }
+.mm-lgbx .help-links { margin-bottom: 20px; }
+.mm-lgbx .help-links a { font-size: 107%; color: rgb(4, 111, 201); }
+.mm-lgbx .help-links a:hover { text-decoration: none; }
+.mm-lgbx #submit { padding-bottom: 5px; }
+.mm-lgbx .mm-or { color: rgb(102, 102, 102); background-color: rgb(255, 255, 255); position: absolute; text-align: center; top: -8px; width: 40px; left: 90px; }
+.mm-lgbx #idp { position: relative; }
+.mm-lgbx #idpBtns { border-top: 1px solid rgb(223, 223, 223); padding-top: 20px; }
+.mm-lgbx #persistency span { background-position: -139px -15px; cursor: pointer; }
+.mm-lgbx #persistency span.checkbox { padding-left: 10px; }
+.mm-lgbx #persistency span.labeltxt { padding-right: 2px; padding-left: 5px; }
+.mm-lgbx .lgbx-ltr { direction: ltr; }
+/* ::::: https://s.yimg.com/zz/combo?kx/yucs/uh3/uh/css/986/uh_non_mail-min.css&kx/yucs/uh_common/meta/3/css/meta-min.css&kx/yucs/uh3/uh/css/943/uh_ssl-min.css ::::: */
+
+#yucs { position: static; left: 0px; top: 0px; z-index: 10000; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; height: 53px; clear: both; padding: 4px 0px; width: 970px; }
+#yucsHead a, #yucsHead span, #yucsHead button, #yucsHead a div {  }
+.yucs-mc { background-color: white; }
+#yucs-logo, #yucs-ylogo { width: 206px; height: 31px; margin-top: 11px; }
+#yucs #yucs-logo, #yucs #yucs-ylogo { margin-left: 15px; float: left; }
+#yucs-logo div, #yucs-logo h2, #yucs-ylogo h2 { position: relative; text-indent: -9999em; background-repeat: no-repeat; margin: 0px; }
+#yucs .sp { background-color: transparent; background-image: url('uh_sprite.png'); background-repeat: no-repeat; }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+	#yucs .sp { background-image: url('uh_sprite_x2.png'); background-size: 24px 4844px; }
+}
+.yucs-fl-right { float: right; margin-top: 4px; margin-left: -100px; }
+.yucs-fl-left { float: left; margin-right: -500px; width: 900px; }
+.yucs-menu_nav, #yucs-nav_outer, #yucs-ylogo, #yucs-search, #yucs-profile, .yucs-mail_link, #yucs-search_button_wrapper, #yucs-satray { float: left; z-index: 10000; margin-left: 20px; }
+.yucs-notifications, #yucs-help { margin-top: 10px; }
+#yucs-nav_outer, #yucs-search_button_wrapper, .yucs-mail_link, #yucs-satray, #yucs-signUp_txt, #yucs-profile_text { margin-left: 0px; }
+#yucs-profile {  }
+#yucs-profile { text-align: left; position: relative; margin-top: 10px; }
+#yucs .yucs-signedout { margin-top: 11px; white-space: nowrap; }
+#yucs div, #yucs ul, #yucs li, #yucs span {  }
+a#yucs-menu_link_profile_signed_out, a#yucs-menu_link_profile { display: inline-block; height: auto; width: auto; overflow: visible; }
+a#yucs-menu_link_profile_signed_out { width: 22px; height: 25px; }
+a#yucs-menu_link_profile_signed_out { background-position: -1px -4547px; margin-right: 2px; }
+#yucs-profile #yucs-profile_text { display: inline-block; }
+.yucs-signedout #yucs-profile_text { line-height: 1.231; margin-top: 0px; vertical-align: top; padding-top: 2px; }
+.yucs-signedout #yucs-profile_text, .yucs-signedout #yucs-profile_text a {  }
+#yucs-profile_text { margin-top: 6px; display: inline-block; max-width: 65px; }
+#yucs-menu_link_profile, #yucs-profile_text {  }
+#yucs-profile { max-width: 95px; }
+@media not all {
+}
+#yucs-profile_text {  }
+#yucs-profile div.yucs-fc { margin-top: 0px; }
+#yucs .yucs-fc { color: rgb(29, 29, 163); text-shadow: 1px 1px 1px rgb(255, 255, 255); }
+#yucs-profile_text a { text-decoration: none; }
+a.yucs-signout:hover, a#yucs-login_signIn:hover, #yucs-login_signUp:hover, #yucs-profile_text a:hover, #yucs-menu_link_profile:hover .yuhead-name, #yucs-mail_link_id:hover { text-decoration: underline; }
+#yucs-profile_text a:hover { cursor: pointer; }
+#yucs-login_signUp, .yucs-no_menu a.yucs-signout, a#yucs-login_signIn, #yucs-signUp_txt { font-size: 9px; text-shadow: 1px 1px 1px rgb(255, 255, 255); }
+#yucs-profile_text #yucs-login_signIn { font-size: 13px; }
+#yucs-profile #yucs-profile_text {  }
+#yucsHead { background-color: white; }
+#yucs-meta { display: none; }
+#yucs-top-bar .sp, #yucs .sp, a#yucs-menu_link_menu, #yucs-search_type_wrapper, a#yucs-menu_link_profile_signed_out, a#yucs-menu_link-notif, a#yucs-help_button, #yucs-nav_outer, .yucs-bullets, #yucs-nav .yucs-nav_site a, a#yucs-home_link, .yucs-dock, #yucs-more-link .yucs-top-ico, .yucs-preview-body a.unread { background-image: url('uh_sprite.png'); }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+	#yucs-top-bar .sp, #yucs .sp, #yucs-menu_link_menu, #yucs-search_type_wrapper, a#yucs-menu_link_profile_signed_out, a#yucs-menu_link-notif, a#yucs-help_button, #yucs-nav_outer, .yucs-bullets, #yucs-nav .yucs-nav_site a, a#yucs-home_link, .yucs-dock, #yucs-more-link .yucs-top-ico, .yucs-preview-body a.unread { background-image: url('uh_sprite_x2.png'); background-size: 24px 4844px; }
+}
+#yUnivHead { background: none repeat scroll 0px 0px transparent; }
+#yucs { margin: 0px auto; width: 100% ! important; }
+#yucs-profile_text { max-width: 65px; }
+.yucs-hide { display: none ! important; }
+#yucs #yucs-help_link { font-size: 13px; color: rgb(29, 29, 163); text-shadow: 1px 1px 1px rgb(255, 255, 255); text-indent: 0px; text-decoration: none; }
+#yucs #yucs-help { margin-top: 13px; margin-right: 10px; }
+#yucs #yucs-help_link:hover { text-decoration: underline; }
+#yucs-profile_text {  }
+#yucs #yucs-logo { width: 120px; padding-top: 11px ! important; margin-top: 0px ! important; }
+#yucs #yucs-logo div { display: block; width: 120px ! important; margin: 0px auto ! important; height: 34px; background-image: url('logo.jpg'); }
+#yucs #yucs-logo a { display: block; width: 120px; height: 34px; overflow: hidden; }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+	#yucs #yucs-logo div { background-image: url('yahoo_mail_en-us_f_pw_119x34_2x.png') ! important; background-size: 240px 34px; }
+}
+html { background-color: rgb(255, 255, 255); }
+body, div, p { margin: 0px; padding: 0px; }
+.lofb_wrap { font: 20px/1.5em Gotham,verdana,sans-serif; color: rgb(0, 0, 0); width: 800px; margin: 130px auto 0px; }
+.lofb { padding-right: 280px; margin-left: 20px; }
+.lofb h3 { font-size: 1.05em; color: rgb(0, 0, 0); font-weight: bold; margin: 10px 5px; }
+.lofb p { margin-left: 5px; }
+#mem_ft { border-top: 1px solid rgb(204, 204, 204); font-size: 10px; margin-top: 1em; padding-top: 0.5em; font-family: arial,helvetica,clean,sans-serif; text-align: center; }
+#mem_ft p { margin: 0px; padding: 0px; }
+/* ::::: https://s.yimg.com/zz/combo?/sf/assets/mbrlogin/css/mobile/deviceswitcher/2/deviceswitcher-min.css ::::: */
+
+#footer { height: 50px; }
